@@ -1,0 +1,10 @@
+
+
+# backups
+*~
+# python
+*.pyc
+
+# Mac
+.DS_Store
+
