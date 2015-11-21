@@ -31,7 +31,9 @@ ipUrl='http://members.3322.org/dyndns/getip'
 # 如果使用泛域名，必须用\*转义
 #domainList[0]='domain1.com \* @ www'
 #domainList[1]='domain2.com subdomain subdomain2'
-domainList[0]='ddddr.com router'
+
+# 这里是只修改一个子域名的例子
+domainList[0]='example.com subdomain'
 
 # 多长时间比较一次ip地址
 delay=300
